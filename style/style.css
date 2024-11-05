@@ -16,3 +16,45 @@ body {
     text-align: center;
     padding: 60px 20px;
 }
+
+.logo {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.about, .services, .methodology, .contact {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    color: #1dbbe6;
+}
+
+.services ul {
+    list-style: none;
+    margin-top: 20px;
+}
+
+.services li {
+    font-size: 1.2em;
+    color: #333;
+    margin: 10px 0;
+}
+
+.contact {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+.contact p {
+    font-size: 1.2em;
+}
