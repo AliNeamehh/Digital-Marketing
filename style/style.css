@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #1dbbe6, #627df5);
+    color: #fff;
+    text-align: center;
+    padding: 60px 20px;
+}
